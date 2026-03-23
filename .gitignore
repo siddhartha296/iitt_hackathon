@@ -1,6 +1,6 @@
 # Large data files
 *.tif
-
+git_pat_sid.txt
 # Model files
 *.pt
 *.pth
