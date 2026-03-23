@@ -1,0 +1,22 @@
+# Large data files
+*.tif
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Folders to ignore
+dataset2/
+trainingdata/
+outputs/
+outputs_4class/
+CHECKPOINTS_*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
